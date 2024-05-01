@@ -8,6 +8,7 @@
     <link rel="manifest" href="manifest.json">
 </head>
 <body>
+    
     <h1>Meu Primeiro PWA</h1>
     
 </body>
